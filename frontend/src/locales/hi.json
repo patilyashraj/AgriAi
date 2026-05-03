@@ -6,12 +6,10 @@
   "outcome_prediction": "रोग अनुमान",
   "outcome_guidance": "देखभाल मार्गदर्शन",
   "outcome_ai": "एआई फॉलो-अप",
-
   "language": "भाषा",
   "lang_en": "अंग्रेज़ी",
   "lang_hi": "हिंदी",
   "lang_mr": "मराठी",
-
   "system_status": "सिस्टम स्थिति",
   "api": "एपीआई",
   "model": "मॉडल",
@@ -25,19 +23,16 @@
     "offline": "ऑफलाइन",
     "checking": "जाँच हो रही है"
   },
-
   "upload": "अपलोड",
   "select_image": "पौधे की तस्वीर चुनें",
   "predict": "पूर्वानुमान",
   "running_prediction": "पूर्वानुमान चल रहा है...",
   "selected_plant_alt": "चुना हुआ पौधा",
   "preview_empty": "तस्वीर का पूर्वावलोकन यहाँ दिखेगा",
-
   "result": "परिणाम",
   "primary_prediction": "मुख्य अनुमान",
   "confidence": "विश्वास स्तर",
   "top_predictions": "शीर्ष अनुमान",
-
   "disease_guidance": "रोग मार्गदर्शन",
   "plant": "पौधा",
   "symptoms": "लक्षण",
@@ -47,7 +42,6 @@
   "pesticide": "कीटनाशी/दवा",
   "disease_data_not_available": "चयनित भाषा में इस रोग के लिए डेटा उपलब्ध नहीं है।",
   "run_prediction_hint": "रोग विवरण और विश्वास स्कोर देखने के लिए पूर्वानुमान चलाएँ।",
-
   "ask_ai": "एआई से पूछें",
   "ask_ai_help": "पूर्वानुमान के बाद एक व्यावहारिक सवाल पूछें। यह सुविधा रोग रिकॉर्ड को आधार बनाकर जवाब देती है।",
   "ask_ai_placeholder": "उदाहरण: इस रोग के लिए अगले 24 घंटे में मुझे क्या करना चाहिए?",
@@ -63,10 +57,15 @@
   "remove_infected_leaves": "संक्रमित पत्तियों को हटाएँ और नष्ट करें",
   "spray_pesticide": "अनुशंसित कीटनाशी/फफूंदनाशी का प्रयोग करें",
   "avoid_watering": "प्रसार कम करने के लिए ऊपर से पानी देने से बचें",
-
   "choose_image_error": "पूर्वानुमान चलाने से पहले एक तस्वीर चुनें।",
   "prediction_failed": "पूर्वानुमान विफल रहा।",
   "ai_request_failed": "एआई अनुरोध विफल रहा।",
-  "logout": "लॉग आउट"
+  "logout": "लॉग आउट",
+  "take_photo": "फोटो लें",
+  "camera_preview": "कैमरा पूर्वावलोकन",
+  "capture_photo": "कैप्चर करें",
+  "cancel": "रद्द करें",
+  "camera_not_supported": "इस डिवाइस पर कैमरा समर्थित नहीं है।",
+  "camera_permission_error": "कैमरा अनुमति अस्वीकार की गई या उपलब्ध नहीं है।",
+  "camera_capture_error": "फोटो कैप्चर नहीं हो सका। कृपया फिर से प्रयास करें।"
 }
-

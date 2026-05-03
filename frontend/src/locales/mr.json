@@ -6,12 +6,10 @@
   "outcome_prediction": "रोगाचा अंदाज",
   "outcome_guidance": "काळजी मार्गदर्शन",
   "outcome_ai": "एआय फॉलो-अप",
-
   "language": "भाषा",
   "lang_en": "इंग्रजी",
   "lang_hi": "हिंदी",
   "lang_mr": "मराठी",
-
   "system_status": "सिस्टम स्थिती",
   "api": "एपीआय",
   "model": "मॉडेल",
@@ -25,19 +23,16 @@
     "offline": "ऑफलाइन",
     "checking": "तपासणी सुरू आहे"
   },
-
   "upload": "अपलोड",
   "select_image": "पिकाची/पानाची प्रतिमा निवडा",
   "predict": "अंदाज",
   "running_prediction": "अंदाज चालू आहे...",
   "selected_plant_alt": "निवडलेला पौधा",
   "preview_empty": "प्रतिमेचे पूर्वावलोकन येथे दिसेल",
-
   "result": "निकाल",
   "primary_prediction": "मुख्य अंदाज",
   "confidence": "विश्वास पातळी",
   "top_predictions": "टॉप अंदाज",
-
   "disease_guidance": "रोग मार्गदर्शन",
   "plant": "पौधा",
   "symptoms": "लक्षणे",
@@ -47,7 +42,6 @@
   "pesticide": "कीटकनाशक/औषध",
   "disease_data_not_available": "निवडलेल्या भाषेत या रोगासाठी डेटा उपलब्ध नाही.",
   "run_prediction_hint": "रोग तपशील आणि विश्वास स्कोअर पाहण्यासाठी अंदाज चालवा.",
-
   "ask_ai": "एआय ला विचारा",
   "ask_ai_help": "अंदाजानंतर एक व्यावहारिक प्रश्न विचारा. ही सुविधा रोग नोंदीचा आधार घेऊन उत्तर देते.",
   "ask_ai_placeholder": "उदा: या रोगासाठी पुढच्या 24 तासांत मला काय करायला हवे?",
@@ -63,10 +57,15 @@
   "remove_infected_leaves": "बाधित पाने काढा आणि नष्ट करा",
   "spray_pesticide": "शिफारस केलेले कीटकनाशक/बुरशीनाशक वापरा",
   "avoid_watering": "प्रसार कमी करण्यासाठी झाडावर पाणी टाकणे टाळा",
-
   "choose_image_error": "अंदाज चालवण्याआधी एक प्रतिमा निवडा.",
   "prediction_failed": "अंदाज अयशस्वी झाला.",
   "ai_request_failed": "एआय विनंती अयशस्वी झाली.",
-  "logout": "लॉग आउट"
+  "logout": "लॉग आउट",
+  "take_photo": "फोटो घ्या",
+  "camera_preview": "कॅमेरा पूर्वावलोकन",
+  "capture_photo": "कॅप्चर करा",
+  "cancel": "रद्द करा",
+  "camera_not_supported": "या डिव्हाइसवर कॅमेरा समर्थित नाही.",
+  "camera_permission_error": "कॅमेरा परवानगी नाकारली गेली किंवा उपलब्ध नाही.",
+  "camera_capture_error": "फोटो कॅप्चर करता आला नाही. कृपया पुन्हा प्रयत्न करा."
 }
-

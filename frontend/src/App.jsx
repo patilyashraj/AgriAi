@@ -24,7 +24,12 @@ function App() {
   const [aiQuestion, setAiQuestion] = useState("");
   const [chatHistory, setChatHistory] = useState([]);
   const [loadingAi, setLoadingAi] = useState(false);
+  const [cameraOpen, setCameraOpen] = useState(false);
+  const [cameraError, setCameraError] = useState("");
   const aiTextareaRef = useRef(null);
+  const videoRef = useRef(null);
+  const canvasRef = useRef(null);
+  const cameraStreamRef = useRef(null);
 
   const predictedClass = prediction?.predicted_class ?? "";
   const diseaseInfo = prediction?.disease ?? null;
@@ -86,6 +91,115 @@ function App() {
       aiTextareaRef.current.style.height = "";
     }
   }, [aiQuestion]);
+
+  useEffect(() => {
+    if (!cameraOpen) {
+      return undefined;
+    }
+
+    let cancelled = false;
+
+    async function startCamera() {
+      if (!navigator.mediaDevices?.getUserMedia) {
+        setCameraError(t("camera_not_supported"));
+        setCameraOpen(false);
+        return;
+      }
+
+      try {
+        const stream = await getBackCameraStream();
+
+        if (cancelled) {
+          stream.getTracks().forEach((track) => track.stop());
+          return;
+        }
+
+        cameraStreamRef.current = stream;
+        if (videoRef.current) {
+          videoRef.current.srcObject = stream;
+          await videoRef.current.play();
+        }
+      } catch (cameraRequestError) {
+        setCameraError(t("camera_permission_error"));
+        setCameraOpen(false);
+      }
+    }
+
+    startCamera();
+
+    return () => {
+      cancelled = true;
+      stopCamera();
+    };
+  }, [cameraOpen, t]);
+
+  function stopCamera() {
+    cameraStreamRef.current?.getTracks().forEach((track) => track.stop());
+    cameraStreamRef.current = null;
+    if (videoRef.current) {
+      videoRef.current.srcObject = null;
+    }
+  }
+
+  async function getBackCameraStream() {
+    try {
+      return await navigator.mediaDevices.getUserMedia({
+        video: { facingMode: { exact: "environment" } },
+        audio: false,
+      });
+    } catch (exactCameraError) {
+      return navigator.mediaDevices.getUserMedia({
+        video: { facingMode: { ideal: "environment" } },
+        audio: false,
+      });
+    }
+  }
+
+  function handleFileChange(event) {
+    setSelectedFile(event.target.files?.[0] ?? null);
+    setCameraError("");
+  }
+
+  function openCamera() {
+    setCameraError("");
+    setCameraOpen(true);
+  }
+
+  function closeCamera() {
+    setCameraOpen(false);
+    stopCamera();
+  }
+
+  function capturePhoto() {
+    const video = videoRef.current;
+    const canvas = canvasRef.current;
+
+    if (!video || !canvas || !video.videoWidth || !video.videoHeight) {
+      setCameraError(t("camera_capture_error"));
+      return;
+    }
+
+    canvas.width = video.videoWidth;
+    canvas.height = video.videoHeight;
+    const context = canvas.getContext("2d");
+    context.drawImage(video, 0, 0, canvas.width, canvas.height);
+
+    canvas.toBlob(
+      (blob) => {
+        if (!blob) {
+          setCameraError(t("camera_capture_error"));
+          return;
+        }
+
+        const file = new File([blob], `plant-photo-${Date.now()}.jpg`, { type: "image/jpeg" });
+        setSelectedFile(file);
+        setCameraError("");
+        closeCamera();
+      },
+      "image/jpeg",
+      0.92
+    );
+  }
 
   async function handlePredict(event) {
     event.preventDefault();
@@ -237,24 +351,50 @@ function App() {
         <section className="panel upload-panel">
           <h2>{t("upload")}</h2>
           <form onSubmit={handlePredict} className="stack">
-            <label className="upload-box">
+            <div className="upload-box">
               <span className="upload-title">{t("select_image")}</span>
-              <span className="file-button">{t("choose_file")}</span>
-              <input
-                type="file"
-                accept="image/png,image/jpeg,image/jpg"
-                onChange={(event) => setSelectedFile(event.target.files?.[0] ?? null)}
-                hidden
-              />
+              <div className="upload-actions">
+                <label className="file-button">
+                  {t("choose_file")}
+                  <input
+                    type="file"
+                    accept="image/png,image/jpeg,image/jpg"
+                    onChange={handleFileChange}
+                    hidden
+                  />
+                </label>
+                <button type="button" className="camera-trigger-button" onClick={openCamera}>
+                  {t("take_photo")}
+                </button>
+              </div>
               {selectedFile ? <span className="file-name">{selectedFile.name}</span> : null}
-            </label>
-            <button type="submit" disabled={loadingPrediction}>
+            </div>
+
+            {cameraOpen ? (
+              <div className="camera-panel" aria-label={t("camera_preview")}>
+                <video ref={videoRef} className="camera-preview" playsInline muted autoPlay />
+                <canvas ref={canvasRef} hidden />
+                <div className="camera-actions">
+                  <button type="button" onClick={capturePhoto}>
+                    {t("capture_photo")}
+                  </button>
+                  <button type="button" className="camera-cancel-button" onClick={closeCamera}>
+                    {t("cancel")}
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <canvas ref={canvasRef} hidden />
+            )}
+
+            <button type="submit" className="predict-button" disabled={loadingPrediction}>
               {loadingPrediction ? t("analyzing") : t("predict")}
             </button>
           </form>
 
           {previewUrl ? <img src={previewUrl} alt={t("selected_plant_alt")} className="preview-image" /> : null}
 
+          {cameraError ? <p className="error-text">{cameraError}</p> : null}
           {error ? <p className="error-text">{error}</p> : null}
         </section>
 
