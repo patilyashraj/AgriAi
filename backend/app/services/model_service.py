@@ -1,7 +1,6 @@
 from io import BytesIO
 
 import numpy as np
-import tensorflow as tf
 from PIL import Image
 
 from app.core.config import settings
@@ -25,6 +24,8 @@ class ModelService:
         if self._model is None:
             if not settings.model_path.exists():
                 raise ModelServiceError(f"Model file not found at {settings.model_path}")
+            import tensorflow as tf
+
             self._model = tf.keras.models.load_model(settings.model_path, compile=False)
         return self._model
 
