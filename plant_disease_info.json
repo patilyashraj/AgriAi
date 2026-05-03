@@ -1,0 +1,1132 @@
+{
+  "Apple___Apple_scab": {
+    "en": {
+      "display_name": "Apple Scab",
+      "plant_name": "Apple",
+      "symptoms": "Olive-green to dark brown velvety spots on leaves, later becoming cracked. Fruits develop rough lesions.",
+      "causes": "Fungal infection caused by Venturia inaequalis.",
+      "prevention": "Remove fallen leaves, prune trees, avoid overhead irrigation.",
+      "treatment": "Apply sulfur, captan, or mancozeb fungicides.",
+      "pesticide": "Sulfur / Mancozeb"
+    },
+    "hi": {
+      "display_name": "सेब स्कैब",
+      "plant_name": "सेब",
+      "symptoms": "पत्तियों पर हरे-भूरे धब्बे और फलों पर खुरदरे निशान बनते हैं।",
+      "causes": "Venturia inaequalis फंगस के कारण।",
+      "prevention": "गिरी हुई पत्तियां हटाएं और छंटाई करें।",
+      "treatment": "सल्फर या मैनकोजेब का उपयोग करें।",
+      "pesticide": "सल्फर / मैनकोजेब"
+    },
+    "mr": {
+      "display_name": "सफरचंद स्कॅब",
+      "plant_name": "सफरचंद",
+      "symptoms": "पानांवर हिरवट-तपकिरी डाग आणि फळांवर खरबरीत जखमा दिसतात.",
+      "causes": "Venturia inaequalis या बुरशीमुळे.",
+      "prevention": "गिरलेली पाने काढा आणि छाटणी करा.",
+      "treatment": "सल्फर किंवा मॅन्कोजेब वापरा.",
+      "pesticide": "सल्फर / मॅन्कोजेब"
+    }
+  },
+
+  "Apple___Black_rot": {
+    "en": {
+      "display_name": "Apple Black Rot",
+      "plant_name": "Apple",
+      "symptoms": "Purple spots on leaves turning brown; fruits develop sunken black rot.",
+      "causes": "Fungal infection caused by Botryosphaeria obtusa.",
+      "prevention": "Remove infected branches and fruits, maintain sanitation.",
+      "treatment": "Apply captan, mancozeb, or copper fungicides.",
+      "pesticide": "Copper fungicide"
+    },
+    "hi": {
+      "display_name": "सेब ब्लैक रॉट",
+      "plant_name": "सेब",
+      "symptoms": "पत्तियों पर बैंगनी धब्बे और फलों पर काले धंसे हुए घाव।",
+      "causes": "Botryosphaeria obtusa फंगस के कारण।",
+      "prevention": "संक्रमित शाखाएं और फल हटाएं।",
+      "treatment": "कॉपर या मैनकोजेब स्प्रे करें।",
+      "pesticide": "कॉपर फफूंदनाशक"
+    },
+    "mr": {
+      "display_name": "सफरचंद ब्लॅक रॉट",
+      "plant_name": "सफरचंद",
+      "symptoms": "पानांवर जांभळे डाग आणि फळांवर काळे खोल डाग दिसतात.",
+      "causes": "Botryosphaeria obtusa बुरशीमुळे.",
+      "prevention": "संक्रमित फांद्या व फळे काढा.",
+      "treatment": "कॉपर किंवा मॅन्कोजेब फवारणी करा.",
+      "pesticide": "कॉपर बुरशीनाशक"
+    }
+  },
+
+  "Apple___Cedar_apple_rust": {
+    "en": {
+      "display_name": "Cedar Apple Rust",
+      "plant_name": "Apple",
+      "symptoms": "Bright yellow-orange spots on leaves and fruit blemishes.",
+      "causes": "Fungal disease involving cedar trees as alternate host.",
+      "prevention": "Remove nearby cedar trees, improve airflow.",
+      "treatment": "Apply myclobutanil or propiconazole fungicides.",
+      "pesticide": "Myclobutanil"
+    },
+    "hi": {
+      "display_name": "सीडर एप्पल रस्ट",
+      "plant_name": "सेब",
+      "symptoms": "पत्तियों पर पीले-नारंगी धब्बे और फलों पर दाग।",
+      "causes": "सीडर पेड़ों से फैलने वाला फंगस।",
+      "prevention": "पास के सीडर पेड़ हटाएं।",
+      "treatment": "मायक्लोब्यूटानिल का उपयोग करें।",
+      "pesticide": "मायक्लोब्यूटानिल"
+    },
+    "mr": {
+      "display_name": "सीडर सफरचंद रस्ट",
+      "plant_name": "सफरचंद",
+      "symptoms": "पानांवर पिवळे-नारिंगी डाग आणि फळांवर डाग दिसतात.",
+      "causes": "सीडर झाडांमुळे पसरणारा बुरशीजन्य रोग.",
+      "prevention": "जवळील सीडर झाडे काढा.",
+      "treatment": "मायक्लोब्यूटानिल वापरा.",
+      "pesticide": "मायक्लोब्यूटानिल"
+    }
+  },
+
+  "Apple___healthy": {
+    "en": {
+      "display_name": "Healthy Apple",
+      "plant_name": "Apple",
+      "symptoms": "Leaves and fruits are healthy with no visible disease signs.",
+      "causes": "No disease present.",
+      "prevention": "Maintain good pruning, irrigation, and monitoring.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ सेब",
+      "plant_name": "सेब",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं, कोई रोग नहीं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "नियमित देखभाल और निगरानी रखें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी सफरचंद",
+      "plant_name": "सफरचंद",
+      "symptoms": "पाने व फळे निरोगी आहेत, कोणताही रोग नाही.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य देखभाल व निरीक्षण ठेवा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Blueberry___healthy": {
+    "en": {
+      "display_name": "Healthy Blueberry",
+      "plant_name": "Blueberry",
+      "symptoms": "Leaves are green and firm; berries grow normally without spots or rot.",
+      "causes": "No disease present.",
+      "prevention": "Maintain acidic soil, proper drainage, and regular pruning.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ ब्लूबेरी",
+      "plant_name": "ब्लूबेरी",
+      "symptoms": "पत्तियां हरी और स्वस्थ हैं, फल सामान्य रूप से बढ़ते हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "मिट्टी का pH बनाए रखें और सही सिंचाई करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी ब्लूबेरी",
+      "plant_name": "ब्लूबेरी",
+      "symptoms": "पाने हिरवी आणि निरोगी असून फळे व्यवस्थित वाढतात.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "मातीचा pH योग्य ठेवा आणि योग्य पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "en": {
+      "display_name": "Cherry Powdery Mildew",
+      "plant_name": "Cherry",
+      "symptoms": "White powdery patches on leaves and shoots; leaves may curl and yellow.",
+      "causes": "Fungal infection caused by Podosphaera clandestina.",
+      "prevention": "Improve airflow, prune infected parts, avoid excess nitrogen.",
+      "treatment": "Apply sulfur or potassium bicarbonate fungicides.",
+      "pesticide": "Sulfur fungicide"
+    },
+    "hi": {
+      "display_name": "चेरी पाउडरी मिल्ड्यू",
+      "plant_name": "चेरी",
+      "symptoms": "पत्तियों पर सफेद पाउडर जैसे धब्बे और पत्तियां मुड़ जाती हैं।",
+      "causes": "Podosphaera clandestina फंगस के कारण।",
+      "prevention": "छंटाई करें और हवा का प्रवाह बढ़ाएं।",
+      "treatment": "सल्फर या पोटैशियम बाइकार्बोनेट का उपयोग करें।",
+      "pesticide": "सल्फर फफूंदनाशक"
+    },
+    "mr": {
+      "display_name": "चेरी पावडरी मिल्ड्यू",
+      "plant_name": "चेरी",
+      "symptoms": "पानांवर पांढरे पावडर सारखे डाग दिसतात आणि पाने वाकतात.",
+      "causes": "Podosphaera clandestina बुरशीमुळे.",
+      "prevention": "छाटणी करून हवा खेळती ठेवा.",
+      "treatment": "सल्फर किंवा पोटॅशियम बायकार्बोनेट वापरा.",
+      "pesticide": "सल्फर बुरशीनाशक"
+    }
+  },
+
+  "Cherry_(including_sour)___healthy": {
+    "en": {
+      "display_name": "Healthy Cherry",
+      "plant_name": "Cherry",
+      "symptoms": "Leaves and fruits are clean and healthy with no disease signs.",
+      "causes": "No disease present.",
+      "prevention": "Maintain pruning, proper irrigation, and monitoring.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ चेरी",
+      "plant_name": "चेरी",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं, कोई रोग नहीं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "नियमित छंटाई और सिंचाई करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी चेरी",
+      "plant_name": "चेरी",
+      "symptoms": "पाने व फळे निरोगी आहेत, कोणताही रोग नाही.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य छाटणी व पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "en": {
+      "display_name": "Corn Gray Leaf Spot",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Rectangular gray to tan lesions between veins, starting from lower leaves.",
+      "causes": "Fungal infection caused by Cercospora zeae-maydis.",
+      "prevention": "Crop rotation, manage residue, use resistant hybrids.",
+      "treatment": "Apply strobilurin or triazole fungicides.",
+      "pesticide": "Azoxystrobin / Propiconazole"
+    },
+    "hi": {
+      "display_name": "मक्का ग्रे लीफ स्पॉट",
+      "plant_name": "मक्का",
+      "symptoms": "पत्तियों पर लंबे भूरे धब्बे, जो नीचे से शुरू होते हैं।",
+      "causes": "Cercospora zeae-maydis फंगस के कारण।",
+      "prevention": "फसल चक्र अपनाएं और अवशेष हटाएं।",
+      "treatment": "स्टोबिल्यूरिन या ट्रायजोल का उपयोग करें।",
+      "pesticide": "अजोक्सीस्ट्रोबिन / प्रोपिकोनाज़ोल"
+    },
+    "mr": {
+      "display_name": "मका ग्रे लीफ स्पॉट",
+      "plant_name": "मका",
+      "symptoms": "पानांवर लांब राखाडी-तपकिरी डाग दिसतात.",
+      "causes": "Cercospora zeae-maydis बुरशीमुळे.",
+      "prevention": "पीक फेरपालट करा आणि अवशेष काढा.",
+      "treatment": "स्टोबिल्यूरिन किंवा ट्रायजोल वापरा.",
+      "pesticide": "अजोक्सीस्ट्रोबिन / प्रोपिकोनाझोल"
+    }
+  },
+
+  "Corn_(maize)___Common_rust_": {
+    "en": {
+      "display_name": "Corn Common Rust",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Reddish-brown pustules on leaves that release rust spores.",
+      "causes": "Fungal infection caused by Puccinia sorghi.",
+      "prevention": "Use resistant hybrids and proper spacing.",
+      "treatment": "Apply triazole or strobilurin fungicides.",
+      "pesticide": "Propiconazole"
+    },
+    "hi": {
+      "display_name": "मक्का कॉमन रस्ट",
+      "plant_name": "मक्का",
+      "symptoms": "पत्तियों पर लाल-भूरे दाने जैसे धब्बे दिखाई देते हैं।",
+      "causes": "Puccinia sorghi फंगस के कारण।",
+      "prevention": "प्रतिरोधी किस्में लगाएं।",
+      "treatment": "ट्रायजोल फफूंदनाशक का उपयोग करें।",
+      "pesticide": "प्रोपिकोनाज़ोल"
+    },
+    "mr": {
+      "display_name": "मका कॉमन रस्ट",
+      "plant_name": "मका",
+      "symptoms": "पानांवर लाल-तपकिरी पुरळसारखे डाग दिसतात.",
+      "causes": "Puccinia sorghi बुरशीमुळे.",
+      "prevention": "प्रतिरोधक वाण वापरा.",
+      "treatment": "ट्रायजोल फवारणी करा.",
+      "pesticide": "प्रोपिकोनाझोल"
+    }
+  },
+
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "en": {
+      "display_name": "Corn Northern Leaf Blight",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Long cigar-shaped lesions on leaves, spreading upwards.",
+      "causes": "Fungal infection caused by Exserohilum turcicum.",
+      "prevention": "Crop rotation, resistant hybrids, proper spacing.",
+      "treatment": "Apply triazole or strobilurin fungicides early.",
+      "pesticide": "Azoxystrobin / Propiconazole"
+    },
+    "hi": {
+      "display_name": "मक्का नॉर्दर्न लीफ ब्लाइट",
+      "plant_name": "मक्का",
+      "symptoms": "पत्तियों पर लंबे सिगार जैसे धब्बे बनते हैं।",
+      "causes": "Exserohilum turcicum फंगस के कारण।",
+      "prevention": "फसल चक्र अपनाएं और प्रतिरोधी बीज लगाएं।",
+      "treatment": "ट्रायजोल फफूंदनाशक का उपयोग करें।",
+      "pesticide": "अजोक्सीस्ट्रोबिन / प्रोपिकोनाज़ोल"
+    },
+    "mr": {
+      "display_name": "मका नॉर्दर्न लीफ ब्लाइट",
+      "plant_name": "मका",
+      "symptoms": "पानांवर सिगारसारखे लांब डाग दिसतात.",
+      "causes": "Exserohilum turcicum बुरशीमुळे.",
+      "prevention": "पीक फेरपालट करा आणि प्रतिरोधक वाण वापरा.",
+      "treatment": "ट्रायजोल फवारणी करा.",
+      "pesticide": "अजोक्सीस्ट्रोबिन / प्रोपिकोनाझोल"
+    }
+  },
+
+  "Corn_(maize)___healthy": {
+    "en": {
+      "display_name": "Healthy Corn",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Leaves are green and healthy with normal growth.",
+      "causes": "No disease present.",
+      "prevention": "Maintain proper spacing, nutrition, and irrigation.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ मक्का",
+      "plant_name": "मक्का",
+      "symptoms": "पत्तियां हरी और स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही पोषण और सिंचाई बनाए रखें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी मका",
+      "plant_name": "मका",
+      "symptoms": "पाने हिरवी आणि निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य पोषण आणि पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Grape___Black_rot": {
+    "en": {
+      "display_name": "Grape Black Rot",
+      "plant_name": "Grape",
+      "symptoms": "Brown spots on leaves; berries shrivel and turn into hard black mummies.",
+      "causes": "Fungal infection caused by Guignardia bidwellii.",
+      "prevention": "Remove infected berries, prune for airflow, control weeds.",
+      "treatment": "Apply mancozeb, captan, or myclobutanil fungicides.",
+      "pesticide": "Mancozeb / Captan"
+    },
+    "hi": {
+      "display_name": "अंगूर ब्लैक रॉट",
+      "plant_name": "अंगूर",
+      "symptoms": "पत्तियों पर भूरे धब्बे और फल सूखकर काले हो जाते हैं।",
+      "causes": "Guignardia bidwellii फंगस के कारण।",
+      "prevention": "संक्रमित फल हटाएं और छंटाई करें।",
+      "treatment": "मैनकोजेब या कैप्टान का उपयोग करें।",
+      "pesticide": "मैनकोजेब / कैप्टान"
+    },
+    "mr": {
+      "display_name": "द्राक्ष ब्लॅक रॉट",
+      "plant_name": "द्राक्ष",
+      "symptoms": "पानांवर तपकिरी डाग आणि फळे सुकून काळी होतात.",
+      "causes": "Guignardia bidwellii बुरशीमुळे.",
+      "prevention": "संक्रमित फळे काढा आणि छाटणी करा.",
+      "treatment": "मॅन्कोजेब किंवा कॅप्टन वापरा.",
+      "pesticide": "मॅन्कोजेब / कॅप्टन"
+    }
+  },
+
+  "Grape___Esca_(Black_Measles)": {
+    "en": {
+      "display_name": "Grape Esca (Black Measles)",
+      "plant_name": "Grape",
+      "symptoms": "Yellow-red stripe patterns on leaves and dark spots on berries; vines may weaken or die.",
+      "causes": "Wood-decay fungi like Phaeomoniella and Fomitiporia.",
+      "prevention": "Avoid large pruning wounds and maintain plant health.",
+      "treatment": "Remove infected vines; no effective chemical cure.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "अंगूर एस्का (ब्लैक मीसल्स)",
+      "plant_name": "अंगूर",
+      "symptoms": "पत्तियों पर पीले-लाल धारियां और फलों पर काले धब्बे।",
+      "causes": "लकड़ी सड़ाने वाले फंगस के कारण।",
+      "prevention": "छंटाई सावधानी से करें और पौधों को स्वस्थ रखें।",
+      "treatment": "संक्रमित पौधों को हटाएं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "द्राक्ष एस्का (ब्लॅक मीझल्स)",
+      "plant_name": "द्राक्ष",
+      "symptoms": "पानांवर पिवळे-लाल पट्टे आणि फळांवर काळे डाग.",
+      "causes": "लाकूड कुजवणाऱ्या बुरशीमुळे.",
+      "prevention": "छाटणी काळजीपूर्वक करा आणि झाडे निरोगी ठेवा.",
+      "treatment": "संक्रमित वेल काढून टाका.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "en": {
+      "display_name": "Grape Leaf Blight",
+      "plant_name": "Grape",
+      "symptoms": "Brown to black angular spots on leaves causing drying and leaf fall.",
+      "causes": "Fungal infection caused by Pseudocercospora vitis.",
+      "prevention": "Prune vines, improve airflow, avoid overhead watering.",
+      "treatment": "Apply copper or mancozeb fungicides.",
+      "pesticide": "Copper fungicide"
+    },
+    "hi": {
+      "display_name": "अंगूर लीफ ब्लाइट",
+      "plant_name": "अंगूर",
+      "symptoms": "पत्तियों पर भूरे-काले धब्बे जिससे पत्तियां सूख जाती हैं।",
+      "causes": "Pseudocercospora vitis फंगस के कारण।",
+      "prevention": "छंटाई करें और पानी ऊपर से न दें।",
+      "treatment": "कॉपर या मैनकोजेब का उपयोग करें।",
+      "pesticide": "कॉपर फफूंदनाशक"
+    },
+    "mr": {
+      "display_name": "द्राक्ष लीफ ब्लाइट",
+      "plant_name": "द्राक्ष",
+      "symptoms": "पानांवर तपकिरी-काळे डाग येतात आणि पाने सुकतात.",
+      "causes": "Pseudocercospora vitis बुरशीमुळे.",
+      "prevention": "छाटणी करा आणि वरून पाणी देणे टाळा.",
+      "treatment": "कॉपर किंवा मॅन्कोजेब वापरा.",
+      "pesticide": "कॉपर बुरशीनाशक"
+    }
+  },
+
+  "Grape___healthy": {
+    "en": {
+      "display_name": "Healthy Grape",
+      "plant_name": "Grape",
+      "symptoms": "Leaves and fruits are healthy with no visible disease.",
+      "causes": "No disease present.",
+      "prevention": "Maintain pruning, sanitation, and proper irrigation.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ अंगूर",
+      "plant_name": "अंगूर",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही देखभाल और सिंचाई बनाए रखें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी द्राक्ष",
+      "plant_name": "द्राक्ष",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य देखभाल आणि पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "en": {
+      "display_name": "Citrus Greening (HLB)",
+      "plant_name": "Orange",
+      "symptoms": "Yellow mottled leaves, small fruits, uneven ripening, and poor growth.",
+      "causes": "Bacterial infection spread by Asian citrus psyllid.",
+      "prevention": "Use disease-free plants, control psyllids, remove infected trees.",
+      "treatment": "No cure; remove infected trees and control insects.",
+      "pesticide": "Imidacloprid / Neem oil"
+    },
+    "hi": {
+      "display_name": "सिट्रस ग्रीनिंग (HLB)",
+      "plant_name": "संतरा",
+      "symptoms": "पत्तियों पर पीले धब्बे, छोटे फल और असमान पकना।",
+      "causes": "बैक्टीरिया और सिट्रस सायलिड कीट के कारण।",
+      "prevention": "स्वस्थ पौधे लगाएं और कीट नियंत्रण करें।",
+      "treatment": "कोई इलाज नहीं, संक्रमित पेड़ हटाएं।",
+      "pesticide": "इमिडाक्लोप्रिड / नीम तेल"
+    },
+    "mr": {
+      "display_name": "सिट्रस ग्रीनिंग (HLB)",
+      "plant_name": "संत्रा",
+      "symptoms": "पानांवर पिवळे डाग, लहान फळे आणि असमान पिकणे.",
+      "causes": "बॅक्टेरिया आणि सायलिड किडीमुळे.",
+      "prevention": "निरोगी रोपे वापरा आणि कीड नियंत्रण करा.",
+      "treatment": "उपचार नाही, संक्रमित झाडे काढा.",
+      "pesticide": "इमिडाक्लोप्रिड / नीम तेल"
+    }
+  },
+
+  "Peach___Bacterial_spot": {
+    "en": {
+      "display_name": "Peach Bacterial Spot",
+      "plant_name": "Peach",
+      "symptoms": "Water-soaked spots on leaves and pitted marks on fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas arboricola.",
+      "prevention": "Use resistant varieties, avoid overhead irrigation.",
+      "treatment": "Apply copper bactericides.",
+      "pesticide": "Copper bactericide"
+    },
+    "hi": {
+      "display_name": "आड़ू बैक्टीरियल स्पॉट",
+      "plant_name": "आड़ू",
+      "symptoms": "पत्तियों पर पानी जैसे धब्बे और फलों पर गड्ढे।",
+      "causes": "Xanthomonas बैक्टीरिया के कारण।",
+      "prevention": "प्रतिरोधी किस्में लगाएं और ऊपर से पानी न दें।",
+      "treatment": "कॉपर स्प्रे का उपयोग करें।",
+      "pesticide": "कॉपर बैक्टीरिसाइड"
+    },
+    "mr": {
+      "display_name": "पीच बॅक्टेरियल स्पॉट",
+      "plant_name": "पीच",
+      "symptoms": "पानांवर पाण्यासारखे डाग आणि फळांवर खड्डे.",
+      "causes": "Xanthomonas बॅक्टेरियामुळे.",
+      "prevention": "प्रतिरोधक वाण वापरा आणि वरून पाणी देऊ नका.",
+      "treatment": "कॉपर फवारणी करा.",
+      "pesticide": "कॉपर बॅक्टेरिसाइड"
+    }
+  },
+
+  "Peach___healthy": {
+    "en": {
+      "display_name": "Healthy Peach",
+      "plant_name": "Peach",
+      "symptoms": "Leaves and fruits are clean and healthy with normal growth.",
+      "causes": "No disease present.",
+      "prevention": "Maintain pruning, irrigation, and monitoring.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ आड़ू",
+      "plant_name": "आड़ू",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही देखभाल और सिंचाई बनाए रखें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी पीच",
+      "plant_name": "पीच",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य देखभाल आणि पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "en": {
+      "display_name": "Bell Pepper Bacterial Spot",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "Small water-soaked spots with yellow halos on leaves; scabby spots on fruits.",
+      "causes": "Bacterial infection caused by Xanthomonas species.",
+      "prevention": "Use clean seeds, crop rotation, avoid overhead irrigation.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Copper bactericide"
+    },
+    "hi": {
+      "display_name": "शिमला मिर्च बैक्टीरियल स्पॉट",
+      "plant_name": "शिमला मिर्च",
+      "symptoms": "पत्तियों पर पानी जैसे धब्बे और पीले घेरे, फलों पर खुरदरे निशान।",
+      "causes": "Xanthomonas बैक्टीरिया के कारण।",
+      "prevention": "स्वस्थ बीज उपयोग करें और फसल चक्र अपनाएं।",
+      "treatment": "कॉपर स्प्रे का उपयोग करें।",
+      "pesticide": "कॉपर बैक्टीरिसाइड"
+    },
+    "mr": {
+      "display_name": "ढोबळी मिरची बॅक्टेरियल स्पॉट",
+      "plant_name": "ढोबळी मिरची",
+      "symptoms": "पानांवर पाण्यासारखे डाग आणि पिवळे वर्तुळे दिसतात.",
+      "causes": "Xanthomonas बॅक्टेरियामुळे.",
+      "prevention": "स्वच्छ बियाणे वापरा आणि पीक फेरपालट करा.",
+      "treatment": "कॉपर फवारणी करा.",
+      "pesticide": "कॉपर बॅक्टेरिसाइड"
+    }
+  },
+
+  "Pepper,_bell___healthy": {
+    "en": {
+      "display_name": "Healthy Bell Pepper",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "Leaves and fruits are healthy with no visible disease.",
+      "causes": "No disease present.",
+      "prevention": "Maintain proper irrigation, spacing, and monitoring.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ शिमला मिर्च",
+      "plant_name": "शिमला मिर्च",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही देखभाल और सिंचाई करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी ढोबळी मिरची",
+      "plant_name": "ढोबळी मिरची",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य पाणी व अंतर ठेवा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Potato___Early_blight": {
+    "en": {
+      "display_name": "Potato Early Blight",
+      "plant_name": "Potato",
+      "symptoms": "Brown spots with concentric rings on older leaves, leading to yellowing.",
+      "causes": "Fungal infection caused by Alternaria solani.",
+      "prevention": "Crop rotation, proper fertilization, avoid overhead watering.",
+      "treatment": "Apply chlorothalonil, mancozeb, or azoxystrobin.",
+      "pesticide": "Mancozeb / Chlorothalonil"
+    },
+    "hi": {
+      "display_name": "आलू अर्ली ब्लाइट",
+      "plant_name": "आलू",
+      "symptoms": "पत्तियों पर गोल भूरे धब्बे और पीला पड़ना।",
+      "causes": "Alternaria solani फंगस के कारण।",
+      "prevention": "फसल चक्र अपनाएं और सही पोषण दें।",
+      "treatment": "मैनकोजेब या क्लोरोथालोनिल का उपयोग करें।",
+      "pesticide": "मैनकोजेब / क्लोरोथालोनिल"
+    },
+    "mr": {
+      "display_name": "बटाटा अर्ली ब्लाइट",
+      "plant_name": "बटाटा",
+      "symptoms": "पानांवर वर्तुळाकार तपकिरी डाग आणि पिवळेपणा.",
+      "causes": "Alternaria solani बुरशीमुळे.",
+      "prevention": "पीक फेरपालट करा आणि योग्य खत द्या.",
+      "treatment": "मॅन्कोजेब किंवा क्लोरोथालोनिल वापरा.",
+      "pesticide": "मॅन्कोजेब / क्लोरोथालोनिल"
+    }
+  },
+
+  "Potato___Late_blight": {
+    "en": {
+      "display_name": "Potato Late Blight",
+      "plant_name": "Potato",
+      "symptoms": "Water-soaked patches on leaves with white mold underneath; rapid rot.",
+      "causes": "Oomycete infection caused by Phytophthora infestans.",
+      "prevention": "Use certified seeds, improve airflow, avoid wet conditions.",
+      "treatment": "Apply mancozeb, chlorothalonil, or metalaxyl.",
+      "pesticide": "Mancozeb / Metalaxyl"
+    },
+    "hi": {
+      "display_name": "आलू लेट ब्लाइट",
+      "plant_name": "आलू",
+      "symptoms": "पत्तियों पर पानी जैसे धब्बे और सफेद फफूंदी।",
+      "causes": "Phytophthora infestans के कारण।",
+      "prevention": "स्वस्थ बीज उपयोग करें और नमी कम रखें।",
+      "treatment": "मैनकोजेब या मेटालाक्सिल का उपयोग करें।",
+      "pesticide": "मैनकोजेब / मेटालाक्सिल"
+    },
+    "mr": {
+      "display_name": "बटाटा लेट ब्लाइट",
+      "plant_name": "बटाटा",
+      "symptoms": "पानांवर पाण्यासारखे डाग आणि पांढरी बुरशी दिसते.",
+      "causes": "Phytophthora infestans मुळे.",
+      "prevention": "निरोगी बियाणे वापरा आणि ओलावा टाळा.",
+      "treatment": "मॅन्कोजेब किंवा मेटालॅक्सिल वापरा.",
+      "pesticide": "मॅन्कोजेब / मेटालॅक्सिल"
+    }
+  },
+
+  "Potato___healthy": {
+    "en": {
+      "display_name": "Healthy Potato",
+      "plant_name": "Potato",
+      "symptoms": "Leaves are green and plants grow normally.",
+      "causes": "No disease present.",
+      "prevention": "Crop rotation, proper irrigation and fertilization.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ आलू",
+      "plant_name": "आलू",
+      "symptoms": "पत्तियां हरी और स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "फसल चक्र और सही सिंचाई करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी बटाटा",
+      "plant_name": "बटाटा",
+      "symptoms": "पाने हिरवी आणि निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "पीक फेरपालट आणि योग्य पाणी द्या.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Raspberry___healthy": {
+    "en": {
+      "display_name": "Healthy Raspberry",
+      "plant_name": "Raspberry",
+      "symptoms": "Leaves and berries are healthy with no spots or wilting.",
+      "causes": "No disease present.",
+      "prevention": "Maintain proper spacing, pruning, and drainage.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ रास्पबेरी",
+      "plant_name": "रास्पबेरी",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही दूरी और छंटाई बनाए रखें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी रास्पबेरी",
+      "plant_name": "रास्पबेरी",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य अंतर व छाटणी ठेवा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Soybean___healthy": {
+    "en": {
+      "display_name": "Healthy Soybean",
+      "plant_name": "Soybean",
+      "symptoms": "Leaves and pods are healthy with uniform growth.",
+      "causes": "No disease present.",
+      "prevention": "Use crop rotation, good seeds, and balanced nutrients.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ सोयाबीन",
+      "plant_name": "सोयाबीन",
+      "symptoms": "पत्तियां और फली स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "फसल चक्र और अच्छी गुणवत्ता के बीज उपयोग करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी सोयाबीन",
+      "plant_name": "सोयाबीन",
+      "symptoms": "पाने व शेंगा निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "पीक फेरपालट आणि चांगले बियाणे वापरा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Squash___Powdery_mildew": {
+    "en": {
+      "display_name": "Squash Powdery Mildew",
+      "plant_name": "Squash",
+      "symptoms": "White powdery spots on leaves leading to yellowing and drying.",
+      "causes": "Fungal infection caused by Podosphaera xanthii.",
+      "prevention": "Provide spacing, remove infected leaves, avoid excess nitrogen.",
+      "treatment": "Apply sulfur or neem oil fungicides.",
+      "pesticide": "Sulfur fungicide"
+    },
+    "hi": {
+      "display_name": "स्क्वैश पाउडरी मिल्ड्यू",
+      "plant_name": "स्क्वैश",
+      "symptoms": "पत्तियों पर सफेद पाउडर जैसे धब्बे।",
+      "causes": "फंगस के कारण।",
+      "prevention": "सही दूरी रखें और संक्रमित पत्तियां हटाएं।",
+      "treatment": "सल्फर या नीम तेल का उपयोग करें।",
+      "pesticide": "सल्फर फफूंदनाशक"
+    },
+    "mr": {
+      "display_name": "स्क्वॅश पावडरी मिल्ड्यू",
+      "plant_name": "स्क्वॅश",
+      "symptoms": "पानांवर पांढरे पावडर सारखे डाग दिसतात.",
+      "causes": "बुरशीमुळे.",
+      "prevention": "योग्य अंतर ठेवा आणि संक्रमित पाने काढा.",
+      "treatment": "सल्फर किंवा नीम तेल वापरा.",
+      "pesticide": "सल्फर बुरशीनाशक"
+    }
+  },
+
+  "Strawberry___Leaf_scorch": {
+    "en": {
+      "display_name": "Strawberry Leaf Scorch",
+      "plant_name": "Strawberry",
+      "symptoms": "Purple spots turning into reddish-brown scorched areas on leaves.",
+      "causes": "Fungal infection caused by Diplocarpon earlianum.",
+      "prevention": "Remove infected leaves, improve spacing, avoid overhead irrigation.",
+      "treatment": "Apply captan or copper fungicides.",
+      "pesticide": "Captan / Copper"
+    },
+    "hi": {
+      "display_name": "स्ट्रॉबेरी लीफ स्कॉर्च",
+      "plant_name": "स्ट्रॉबेरी",
+      "symptoms": "पत्तियों पर बैंगनी धब्बे जो बाद में भूरे हो जाते हैं।",
+      "causes": "Diplocarpon earlianum फंगस के कारण।",
+      "prevention": "संक्रमित पत्तियां हटाएं और दूरी रखें।",
+      "treatment": "कैप्टान या कॉपर का उपयोग करें।",
+      "pesticide": "कैप्टान / कॉपर"
+    },
+    "mr": {
+      "display_name": "स्ट्रॉबेरी लीफ स्कॉर्च",
+      "plant_name": "स्ट्रॉबेरी",
+      "symptoms": "पानांवर जांभळे डाग आणि नंतर तपकिरी होतात.",
+      "causes": "Diplocarpon earlianum बुरशीमुळे.",
+      "prevention": "संक्रमित पाने काढा आणि अंतर ठेवा.",
+      "treatment": "कॅप्टन किंवा कॉपर वापरा.",
+      "pesticide": "कॅप्टन / कॉपर"
+    }
+  },
+
+  "Strawberry___healthy": {
+    "en": {
+      "display_name": "Healthy Strawberry",
+      "plant_name": "Strawberry",
+      "symptoms": "Leaves and fruits are healthy with no spots or rot.",
+      "causes": "No disease present.",
+      "prevention": "Maintain spacing, clean planting material, and proper watering.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ स्ट्रॉबेरी",
+      "plant_name": "स्ट्रॉबेरी",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही दूरी और साफ पौधे उपयोग करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी स्ट्रॉबेरी",
+      "plant_name": "स्ट्रॉबेरी",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य अंतर आणि स्वच्छ रोपे वापरा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "en": {
+      "display_name": "Tomato Bacterial Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Small dark spots on leaves with yellowing; rough scabby spots on fruits.",
+      "causes": "Bacterial infection caused by Xanthomonas species.",
+      "prevention": "Use healthy seeds, avoid overhead irrigation, rotate crops.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Copper bactericide"
+    },
+    "hi": {
+      "display_name": "टमाटर बैक्टीरियल स्पॉट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर छोटे काले धब्बे और फलों पर खुरदरे निशान।",
+      "causes": "Xanthomonas बैक्टीरिया के कारण।",
+      "prevention": "स्वस्थ बीज उपयोग करें और ऊपर से पानी न दें।",
+      "treatment": "कॉपर स्प्रे करें।",
+      "pesticide": "कॉपर बैक्टीरिसाइड"
+    },
+    "mr": {
+      "display_name": "टोमॅटो बॅक्टेरियल स्पॉट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर लहान काळे डाग आणि फळांवर खडबडीत ठिपके.",
+      "causes": "Xanthomonas बॅक्टेरियामुळे.",
+      "prevention": "स्वच्छ बियाणे वापरा आणि वरून पाणी देऊ नका.",
+      "treatment": "कॉपर फवारणी करा.",
+      "pesticide": "कॉपर बॅक्टेरिसाइड"
+    }
+  },
+
+  "Tomato___Early_blight": {
+    "en": {
+      "display_name": "Tomato Early Blight",
+      "plant_name": "Tomato",
+      "symptoms": "Brown spots with concentric rings on lower leaves.",
+      "causes": "Fungal infection caused by Alternaria solani.",
+      "prevention": "Crop rotation, mulch soil, avoid overhead watering.",
+      "treatment": "Apply mancozeb or chlorothalonil.",
+      "pesticide": "Mancozeb / Chlorothalonil"
+    },
+    "hi": {
+      "display_name": "टमाटर अर्ली ब्लाइट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर गोल भूरे धब्बे।",
+      "causes": "Alternaria solani फंगस के कारण।",
+      "prevention": "फसल चक्र अपनाएं।",
+      "treatment": "मैनकोजेब का उपयोग करें।",
+      "pesticide": "मैनकोजेब"
+    },
+    "mr": {
+      "display_name": "टोमॅटो अर्ली ब्लाइट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर गोल तपकिरी डाग दिसतात.",
+      "causes": "Alternaria solani बुरशीमुळे.",
+      "prevention": "पीक फेरपालट करा.",
+      "treatment": "मॅन्कोजेब वापरा.",
+      "pesticide": "मॅन्कोजेब"
+    }
+  },
+
+  "Tomato___Late_blight": {
+    "en": {
+      "display_name": "Tomato Late Blight",
+      "plant_name": "Tomato",
+      "symptoms": "Water-soaked patches with white mold underneath.",
+      "causes": "Caused by Phytophthora infestans.",
+      "prevention": "Avoid moisture, improve airflow, remove infected plants.",
+      "treatment": "Apply mancozeb or metalaxyl.",
+      "pesticide": "Mancozeb / Metalaxyl"
+    },
+    "hi": {
+      "display_name": "टमाटर लेट ब्लाइट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर पानी जैसे धब्बे और सफेद फफूंदी।",
+      "causes": "Phytophthora infestans के कारण।",
+      "prevention": "नमी कम रखें।",
+      "treatment": "मैनकोजेब का उपयोग करें।",
+      "pesticide": "मैनकोजेब"
+    },
+    "mr": {
+      "display_name": "टोमॅटो लेट ब्लाइट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर पाण्यासारखे डाग आणि पांढरी बुरशी दिसते.",
+      "causes": "Phytophthora infestans मुळे.",
+      "prevention": "ओलावा टाळा.",
+      "treatment": "मॅन्कोजेब वापरा.",
+      "pesticide": "मॅन्कोजेब"
+    }
+  },
+
+  "Tomato___Leaf_Mold": {
+    "en": {
+      "display_name": "Tomato Leaf Mold",
+      "plant_name": "Tomato",
+      "symptoms": "Yellow patches on leaves with gray mold underneath.",
+      "causes": "Fungal infection caused by Passalora fulva.",
+      "prevention": "Improve airflow and reduce humidity.",
+      "treatment": "Apply copper or chlorothalonil.",
+      "pesticide": "Copper fungicide"
+    },
+    "hi": {
+      "display_name": "टमाटर लीफ मोल्ड",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर पीले धब्बे और नीचे फफूंदी।",
+      "causes": "Passalora fulva फंगस के कारण।",
+      "prevention": "हवा का प्रवाह बढ़ाएं।",
+      "treatment": "कॉपर स्प्रे करें।",
+      "pesticide": "कॉपर फफूंदनाशक"
+    },
+    "mr": {
+      "display_name": "टोमॅटो लीफ मोल्ड",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर पिवळे डाग आणि खाली बुरशी दिसते.",
+      "causes": "Passalora fulva बुरशीमुळे.",
+      "prevention": "हवा खेळती ठेवा.",
+      "treatment": "कॉपर फवारणी करा.",
+      "pesticide": "कॉपर बुरशीनाशक"
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "en": {
+      "display_name": "Tomato Septoria Leaf Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Small round spots with gray centers on lower leaves causing yellowing and drop.",
+      "causes": "Fungal infection caused by Septoria lycopersici.",
+      "prevention": "Crop rotation, mulch soil, avoid overhead watering.",
+      "treatment": "Apply chlorothalonil or mancozeb fungicides.",
+      "pesticide": "Mancozeb / Chlorothalonil"
+    },
+    "hi": {
+      "display_name": "टमाटर सेप्टोरिया लीफ स्पॉट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर छोटे धब्बे जो बाद में पीले हो जाते हैं।",
+      "causes": "Septoria lycopersici फंगस के कारण।",
+      "prevention": "फसल चक्र अपनाएं और ऊपर से पानी न दें।",
+      "treatment": "मैनकोजेब का उपयोग करें।",
+      "pesticide": "मैनकोजेब"
+    },
+    "mr": {
+      "display_name": "टोमॅटो सेप्टोरिया लीफ स्पॉट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर छोटे डाग येऊन पाने पिवळी होतात.",
+      "causes": "Septoria lycopersici बुरशीमुळे.",
+      "prevention": "पीक फेरपालट करा.",
+      "treatment": "मॅन्कोजेब वापरा.",
+      "pesticide": "मॅन्कोजेब"
+    }
+  },
+
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "en": {
+      "display_name": "Tomato Spider Mites",
+      "plant_name": "Tomato",
+      "symptoms": "Yellow speckles and webbing under leaves; leaves dry and fall.",
+      "causes": "Pest attack by two-spotted spider mite (Tetranychus urticae).",
+      "prevention": "Avoid dry conditions, reduce dust, monitor leaves.",
+      "treatment": "Apply neem oil or insecticidal soap.",
+      "pesticide": "Neem oil"
+    },
+    "hi": {
+      "display_name": "टमाटर स्पाइडर माइट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर पीले धब्बे और जाल दिखाई देते हैं।",
+      "causes": "स्पाइडर माइट कीट के कारण।",
+      "prevention": "नमी बनाए रखें और नियमित जांच करें।",
+      "treatment": "नीम तेल का उपयोग करें।",
+      "pesticide": "नीम तेल"
+    },
+    "mr": {
+      "display_name": "टोमॅटो स्पायडर माइट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर पिवळे डाग आणि जाळी दिसते.",
+      "causes": "स्पायडर माइट किडीमुळे.",
+      "prevention": "ओलावा ठेवा आणि तपासणी करा.",
+      "treatment": "नीम तेल वापरा.",
+      "pesticide": "नीम तेल"
+    }
+  },
+
+  "Tomato___Target_Spot": {
+    "en": {
+      "display_name": "Tomato Target Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Brown circular spots with rings on leaves and fruit.",
+      "causes": "Fungal infection caused by Corynespora cassiicola.",
+      "prevention": "Crop rotation, spacing, avoid overhead irrigation.",
+      "treatment": "Apply chlorothalonil or mancozeb.",
+      "pesticide": "Mancozeb"
+    },
+    "hi": {
+      "display_name": "टमाटर टारगेट स्पॉट",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर गोल भूरे धब्बे दिखाई देते हैं।",
+      "causes": "Corynespora cassiicola फंगस के कारण।",
+      "prevention": "फसल चक्र और दूरी बनाए रखें।",
+      "treatment": "मैनकोजेब का उपयोग करें।",
+      "pesticide": "मैनकोजेब"
+    },
+    "mr": {
+      "display_name": "टोमॅटो टार्गेट स्पॉट",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर गोल तपकिरी डाग दिसतात.",
+      "causes": "Corynespora cassiicola बुरशीमुळे.",
+      "prevention": "पीक फेरपालट आणि अंतर ठेवा.",
+      "treatment": "मॅन्कोजेब वापरा.",
+      "pesticide": "मॅन्कोजेब"
+    }
+  },
+
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "en": {
+      "display_name": "Tomato Yellow Leaf Curl Virus",
+      "plant_name": "Tomato",
+      "symptoms": "Leaves curl upward, turn yellow, and plants become stunted.",
+      "causes": "Virus spread by whiteflies.",
+      "prevention": "Control whiteflies and use resistant varieties.",
+      "treatment": "No cure; remove infected plants and control insects.",
+      "pesticide": "Neem oil / Imidacloprid"
+    },
+    "hi": {
+      "display_name": "टमाटर येलो लीफ कर्ल वायरस",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियां मुड़ जाती हैं और पीली हो जाती हैं।",
+      "causes": "व्हाइटफ्लाई कीट द्वारा फैलने वाला वायरस।",
+      "prevention": "कीट नियंत्रण करें और प्रतिरोधी किस्म लगाएं।",
+      "treatment": "कोई इलाज नहीं, संक्रमित पौधे हटाएं।",
+      "pesticide": "नीम तेल / इमिडाक्लोप्रिड"
+    },
+    "mr": {
+      "display_name": "टोमॅटो यलो लीफ कर्ल व्हायरस",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पाने वाकतात आणि पिवळी होतात.",
+      "causes": "व्हाईटफ्लाय किडीमुळे पसरणारा व्हायरस.",
+      "prevention": "कीड नियंत्रण करा आणि प्रतिरोधक वाण वापरा.",
+      "treatment": "उपचार नाही, संक्रमित झाडे काढा.",
+      "pesticide": "नीम तेल / इमिडाक्लोप्रिड"
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "en": {
+      "display_name": "Tomato Mosaic Virus",
+      "plant_name": "Tomato",
+      "symptoms": "Mosaic light and dark green patterns, leaf curling, and stunted growth.",
+      "causes": "Virus spread through contaminated tools, hands, and plant contact.",
+      "prevention": "Use clean seeds, disinfect tools, and avoid handling infected plants.",
+      "treatment": "No cure; remove infected plants.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "टमाटर मोज़ेक वायरस",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियों पर हल्के और गहरे हरे धब्बे और मुड़ना।",
+      "causes": "संक्रमित उपकरण और संपर्क से फैलने वाला वायरस।",
+      "prevention": "स्वच्छ बीज और उपकरणों का उपयोग करें।",
+      "treatment": "कोई इलाज नहीं, संक्रमित पौधे हटाएं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "टोमॅटो मोज़ेक व्हायरस",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पानांवर हलके-गडद हिरवे डाग आणि पाने वाकतात.",
+      "causes": "संक्रमित साधने आणि संपर्कामुळे पसरणारा व्हायरस.",
+      "prevention": "स्वच्छ बियाणे आणि साधने वापरा.",
+      "treatment": "उपचार नाही, संक्रमित झाडे काढा.",
+      "pesticide": "काहीही नाही"
+    }
+  },
+
+  "Tomato___healthy": {
+    "en": {
+      "display_name": "Healthy Tomato",
+      "plant_name": "Tomato",
+      "symptoms": "Leaves, stems, and fruits are healthy with normal growth.",
+      "causes": "No disease present.",
+      "prevention": "Maintain proper spacing, irrigation, and monitoring.",
+      "treatment": "No treatment required.",
+      "pesticide": "None"
+    },
+    "hi": {
+      "display_name": "स्वस्थ टमाटर",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियां और फल स्वस्थ हैं।",
+      "causes": "कोई रोग नहीं है।",
+      "prevention": "सही सिंचाई और देखभाल करें।",
+      "treatment": "कोई उपचार आवश्यक नहीं।",
+      "pesticide": "कोई नहीं"
+    },
+    "mr": {
+      "display_name": "निरोगी टोमॅटो",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पाने व फळे निरोगी आहेत.",
+      "causes": "कोणताही रोग नाही.",
+      "prevention": "योग्य पाणी आणि देखभाल ठेवा.",
+      "treatment": "उपचाराची गरज नाही.",
+      "pesticide": "काहीही नाही"
+    }
+  }
+}

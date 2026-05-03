@@ -1,0 +1,72 @@
+{
+  "title": "AgriAI",
+  "eyebrow": "Plant Intelligence Platform",
+  "hero_text": "Upload a crop image, inspect top model predictions, review structured disease guidance, and optionally ask AI for grounded follow-up recommendations.",
+  "outcomes": "Outcomes",
+  "outcome_prediction": "Disease prediction",
+  "outcome_guidance": "Care guidance",
+  "outcome_ai": "AI follow-up",
+
+  "language": "Language",
+  "lang_en": "English",
+  "lang_hi": "Hindi",
+  "lang_mr": "Marathi",
+
+  "system_status": "System status",
+  "api": "API",
+  "model": "Model",
+  "ai_assist": "AI assist",
+  "ready": "ready",
+  "missing": "missing",
+  "enabled": "enabled",
+  "disabled": "disabled",
+  "status": {
+    "ok": "ok",
+    "offline": "offline",
+    "checking": "checking"
+  },
+
+  "upload": "Upload",
+  "select_image": "Select a plant image",
+  "predict": "Predict",
+  "running_prediction": "Running prediction...",
+  "selected_plant_alt": "Selected plant",
+  "preview_empty": "Image preview appears here",
+
+  "result": "Result",
+  "primary_prediction": "Primary prediction",
+  "confidence": "Confidence",
+  "top_predictions": "Top predictions",
+
+  "disease_guidance": "Disease guidance",
+  "plant": "Plant",
+  "symptoms": "Symptoms",
+  "causes": "Causes",
+  "prevention": "Prevention",
+  "treatment": "Treatment",
+  "pesticide": "Pesticide",
+  "disease_data_not_available": "Data not available for this disease in the selected language.",
+  "run_prediction_hint": "Run a prediction to see disease details and confidence scores.",
+
+  "ask_ai": "Ask AI",
+  "ask_ai_help": "Ask a practical question after a prediction. This endpoint uses the disease record as grounding context.",
+  "ask_ai_placeholder": "Example: What should I do in the next 24 hours for this disease?",
+  "thinking": "Thinking...",
+  "ai_answer": "AI answer",
+  "you": "You",
+  "chat_history": "Chat history",
+  "about_disease": "About disease",
+  "ai_unavailable_try_again": "AI is unavailable right now. Here are the key steps you can take based on the disease details.",
+  "choose_file": "Choose file",
+  "analyzing": "Analyzing...",
+  "what_to_do": "What to do now",
+  "remove_infected_leaves": "Remove and destroy infected leaves",
+  "spray_pesticide": "Apply recommended pesticide/fungicide",
+  "avoid_watering": "Avoid overhead watering to reduce spread",
+
+  "choose_image_error": "Choose an image before running prediction.",
+  "prediction_failed": "Prediction failed.",
+  "ai_request_failed": "AI request failed.",
+  "logout": "Logout"
+}
+

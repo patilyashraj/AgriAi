@@ -1,0 +1,1104 @@
+{
+  "Apple___Apple_scab": {
+    "en": {
+      "display_name": "Apple — Apple scab",
+      "plant_name": "Apple",
+      "symptoms": "Olive-green or brown spots on leaves, lesions on fruit.",
+      "causes": "Fungal infection caused by Venturia inaequalis.",
+      "prevention": "Prune and destroy affected leaves, apply fungicide before symptoms appear.",
+      "treatment": "Use sulfur-based fungicides, proper sanitation.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Apple — Apple scab",
+      "plant_name": "Apple",
+      "symptoms": "Olive-green or brown spots on leaves, lesions on fruit.",
+      "causes": "Fungal infection caused by Venturia inaequalis.",
+      "prevention": "Prune and destroy affected leaves, apply fungicide before symptoms appear.",
+      "treatment": "Use sulfur-based fungicides, proper sanitation.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Apple — Apple scab",
+      "plant_name": "Apple",
+      "symptoms": "Olive-green or brown spots on leaves, lesions on fruit.",
+      "causes": "Fungal infection caused by Venturia inaequalis.",
+      "prevention": "Prune and destroy affected leaves, apply fungicide before symptoms appear.",
+      "treatment": "Use sulfur-based fungicides, proper sanitation.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Apple___Black_rot": {
+    "en": {
+      "display_name": "Apple — Black rot",
+      "plant_name": "Apple",
+      "symptoms": "Dark, sunken lesions on fruit and cankers on branches.",
+      "causes": "Fungal infection caused by Botryosphaeria obtusa.",
+      "prevention": "Prune infected branches, avoid fruit injuries.",
+      "treatment": "Use copper or sulfur sprays during dormant season.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Apple — Black rot",
+      "plant_name": "Apple",
+      "symptoms": "Dark, sunken lesions on fruit and cankers on branches.",
+      "causes": "Fungal infection caused by Botryosphaeria obtusa.",
+      "prevention": "Prune infected branches, avoid fruit injuries.",
+      "treatment": "Use copper or sulfur sprays during dormant season.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Apple — Black rot",
+      "plant_name": "Apple",
+      "symptoms": "Dark, sunken lesions on fruit and cankers on branches.",
+      "causes": "Fungal infection caused by Botryosphaeria obtusa.",
+      "prevention": "Prune infected branches, avoid fruit injuries.",
+      "treatment": "Use copper or sulfur sprays during dormant season.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "en": {
+      "display_name": "Apple — Cedar apple rust",
+      "plant_name": "Apple",
+      "symptoms": "Bright yellow-orange spots on leaves, twig dieback.",
+      "causes": "Fungal disease involving cedar trees as an alternate host.",
+      "prevention": "Remove nearby cedar trees, apply fungicide early in the season.",
+      "treatment": "Fungicide sprays like myclobutanil or propiconazole.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Apple — Cedar apple rust",
+      "plant_name": "Apple",
+      "symptoms": "Bright yellow-orange spots on leaves, twig dieback.",
+      "causes": "Fungal disease involving cedar trees as an alternate host.",
+      "prevention": "Remove nearby cedar trees, apply fungicide early in the season.",
+      "treatment": "Fungicide sprays like myclobutanil or propiconazole.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Apple — Cedar apple rust",
+      "plant_name": "Apple",
+      "symptoms": "Bright yellow-orange spots on leaves, twig dieback.",
+      "causes": "Fungal disease involving cedar trees as an alternate host.",
+      "prevention": "Remove nearby cedar trees, apply fungicide early in the season.",
+      "treatment": "Fungicide sprays like myclobutanil or propiconazole.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Apple___healthy": {
+    "en": {
+      "display_name": "Apple — healthy",
+      "plant_name": "Apple",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper pruning and nutrient management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Apple — healthy",
+      "plant_name": "Apple",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper pruning and nutrient management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Apple — healthy",
+      "plant_name": "Apple",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper pruning and nutrient management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Blueberry___healthy": {
+    "en": {
+      "display_name": "Blueberry — healthy",
+      "plant_name": "Blueberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Blueberry — healthy",
+      "plant_name": "Blueberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Blueberry — healthy",
+      "plant_name": "Blueberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "en": {
+      "display_name": "Cherry (including sour) — Powdery mildew",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "White powdery coating on leaves and shoots.",
+      "causes": "Fungal disease caused by Podosphaera clandestina.",
+      "prevention": "Prune for air circulation, avoid overhead watering.",
+      "treatment": "Use sulfur-based fungicide or horticultural oils.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Cherry (including sour) — Powdery mildew",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "White powdery coating on leaves and shoots.",
+      "causes": "Fungal disease caused by Podosphaera clandestina.",
+      "prevention": "Prune for air circulation, avoid overhead watering.",
+      "treatment": "Use sulfur-based fungicide or horticultural oils.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Cherry (including sour) — Powdery mildew",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "White powdery coating on leaves and shoots.",
+      "causes": "Fungal disease caused by Podosphaera clandestina.",
+      "prevention": "Prune for air circulation, avoid overhead watering.",
+      "treatment": "Use sulfur-based fungicide or horticultural oils.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "en": {
+      "display_name": "Cherry (including sour) — healthy",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper tree care and watering schedule.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Cherry (including sour) — healthy",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper tree care and watering schedule.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Cherry (including sour) — healthy",
+      "plant_name": "Cherry (including sour)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Maintain proper tree care and watering schedule.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "en": {
+      "display_name": "Corn (maize) — Cercospora leaf spot Gray leaf spot",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Grayish-brown rectangular spots on leaves.",
+      "causes": "Fungal infection caused by Cercospora zeae-maydis.",
+      "prevention": "Rotate crops, use resistant hybrids.",
+      "treatment": "Apply foliar fungicides like strobilurins.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Corn (maize) — Cercospora leaf spot Gray leaf spot",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Grayish-brown rectangular spots on leaves.",
+      "causes": "Fungal infection caused by Cercospora zeae-maydis.",
+      "prevention": "Rotate crops, use resistant hybrids.",
+      "treatment": "Apply foliar fungicides like strobilurins.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Corn (maize) — Cercospora leaf spot Gray leaf spot",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Grayish-brown rectangular spots on leaves.",
+      "causes": "Fungal infection caused by Cercospora zeae-maydis.",
+      "prevention": "Rotate crops, use resistant hybrids.",
+      "treatment": "Apply foliar fungicides like strobilurins.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "en": {
+      "display_name": "Corn (maize) — Common rust ",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Reddish-brown pustules on leaves.",
+      "causes": "Fungal infection caused by Puccinia sorghi.",
+      "prevention": "Plant rust-resistant varieties, avoid overhead irrigation.",
+      "treatment": "Use foliar fungicides if rust is widespread.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Corn (maize) — Common rust ",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Reddish-brown pustules on leaves.",
+      "causes": "Fungal infection caused by Puccinia sorghi.",
+      "prevention": "Plant rust-resistant varieties, avoid overhead irrigation.",
+      "treatment": "Use foliar fungicides if rust is widespread.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Corn (maize) — Common rust ",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Reddish-brown pustules on leaves.",
+      "causes": "Fungal infection caused by Puccinia sorghi.",
+      "prevention": "Plant rust-resistant varieties, avoid overhead irrigation.",
+      "treatment": "Use foliar fungicides if rust is widespread.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "en": {
+      "display_name": "Corn (maize) — Northern Leaf Blight",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Long, gray-green lesions on leaves.",
+      "causes": "Fungal infection caused by Setosphaeria turcica.",
+      "prevention": "Use resistant hybrids, rotate crops.",
+      "treatment": "Apply foliar fungicides during early symptoms.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Corn (maize) — Northern Leaf Blight",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Long, gray-green lesions on leaves.",
+      "causes": "Fungal infection caused by Setosphaeria turcica.",
+      "prevention": "Use resistant hybrids, rotate crops.",
+      "treatment": "Apply foliar fungicides during early symptoms.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Corn (maize) — Northern Leaf Blight",
+      "plant_name": "Corn (maize)",
+      "symptoms": "Long, gray-green lesions on leaves.",
+      "causes": "Fungal infection caused by Setosphaeria turcica.",
+      "prevention": "Use resistant hybrids, rotate crops.",
+      "treatment": "Apply foliar fungicides during early symptoms.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "en": {
+      "display_name": "Corn (maize) — healthy",
+      "plant_name": "Corn (maize)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure good agricultural practices like crop rotation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Corn (maize) — healthy",
+      "plant_name": "Corn (maize)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure good agricultural practices like crop rotation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Corn (maize) — healthy",
+      "plant_name": "Corn (maize)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure good agricultural practices like crop rotation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Grape___Black_rot": {
+    "en": {
+      "display_name": "Grape — Black rot",
+      "plant_name": "Grape",
+      "symptoms": "Small, brown circular spots on leaves, fruit mummification.",
+      "causes": "Fungal infection caused by Guignardia bidwellii.",
+      "prevention": "Prune infected areas, ensure proper air circulation.",
+      "treatment": "Apply fungicide sprays like mancozeb or myclobutanil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Grape — Black rot",
+      "plant_name": "Grape",
+      "symptoms": "Small, brown circular spots on leaves, fruit mummification.",
+      "causes": "Fungal infection caused by Guignardia bidwellii.",
+      "prevention": "Prune infected areas, ensure proper air circulation.",
+      "treatment": "Apply fungicide sprays like mancozeb or myclobutanil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Grape — Black rot",
+      "plant_name": "Grape",
+      "symptoms": "Small, brown circular spots on leaves, fruit mummification.",
+      "causes": "Fungal infection caused by Guignardia bidwellii.",
+      "prevention": "Prune infected areas, ensure proper air circulation.",
+      "treatment": "Apply fungicide sprays like mancozeb or myclobutanil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "en": {
+      "display_name": "Grape — Esca (Black Measles)",
+      "plant_name": "Grape",
+      "symptoms": "Striped leaves with black fruit spots.",
+      "causes": "Fungal infection by multiple pathogens.",
+      "prevention": "Avoid stress, maintain vineyard hygiene.",
+      "treatment": "No effective treatment, focus on prevention.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Grape — Esca (Black Measles)",
+      "plant_name": "Grape",
+      "symptoms": "Striped leaves with black fruit spots.",
+      "causes": "Fungal infection by multiple pathogens.",
+      "prevention": "Avoid stress, maintain vineyard hygiene.",
+      "treatment": "No effective treatment, focus on prevention.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Grape — Esca (Black Measles)",
+      "plant_name": "Grape",
+      "symptoms": "Striped leaves with black fruit spots.",
+      "causes": "Fungal infection by multiple pathogens.",
+      "prevention": "Avoid stress, maintain vineyard hygiene.",
+      "treatment": "No effective treatment, focus on prevention.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "en": {
+      "display_name": "Grape — Leaf blight (Isariopsis Leaf Spot)",
+      "plant_name": "Grape",
+      "symptoms": "Dark brown lesions on leaves.",
+      "causes": "Fungal disease caused by Isariopsis spp.",
+      "prevention": "Prune to increase airflow, avoid waterlogged soils.",
+      "treatment": "Apply fungicides like copper-based sprays.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Grape — Leaf blight (Isariopsis Leaf Spot)",
+      "plant_name": "Grape",
+      "symptoms": "Dark brown lesions on leaves.",
+      "causes": "Fungal disease caused by Isariopsis spp.",
+      "prevention": "Prune to increase airflow, avoid waterlogged soils.",
+      "treatment": "Apply fungicides like copper-based sprays.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Grape — Leaf blight (Isariopsis Leaf Spot)",
+      "plant_name": "Grape",
+      "symptoms": "Dark brown lesions on leaves.",
+      "causes": "Fungal disease caused by Isariopsis spp.",
+      "prevention": "Prune to increase airflow, avoid waterlogged soils.",
+      "treatment": "Apply fungicides like copper-based sprays.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Grape___healthy": {
+    "en": {
+      "display_name": "Grape — healthy",
+      "plant_name": "Grape",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and proper vineyard care.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Grape — healthy",
+      "plant_name": "Grape",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and proper vineyard care.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Grape — healthy",
+      "plant_name": "Grape",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and proper vineyard care.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "en": {
+      "display_name": "Orange — Haunglongbing (Citrus greening)",
+      "plant_name": "Orange",
+      "symptoms": "Yellowing of leaves, misshapen fruit.",
+      "causes": "Bacterial disease spread by psyllid insects.",
+      "prevention": "Control psyllids, use disease-free planting material.",
+      "treatment": "No cure available, remove infected trees.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Orange — Haunglongbing (Citrus greening)",
+      "plant_name": "Orange",
+      "symptoms": "Yellowing of leaves, misshapen fruit.",
+      "causes": "Bacterial disease spread by psyllid insects.",
+      "prevention": "Control psyllids, use disease-free planting material.",
+      "treatment": "No cure available, remove infected trees.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Orange — Haunglongbing (Citrus greening)",
+      "plant_name": "Orange",
+      "symptoms": "Yellowing of leaves, misshapen fruit.",
+      "causes": "Bacterial disease spread by psyllid insects.",
+      "prevention": "Control psyllids, use disease-free planting material.",
+      "treatment": "No cure available, remove infected trees.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "en": {
+      "display_name": "Peach — Bacterial spot",
+      "plant_name": "Peach",
+      "symptoms": "Small, dark lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas arboricola.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Peach — Bacterial spot",
+      "plant_name": "Peach",
+      "symptoms": "Small, dark lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas arboricola.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Peach — Bacterial spot",
+      "plant_name": "Peach",
+      "symptoms": "Small, dark lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas arboricola.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Peach___healthy": {
+    "en": {
+      "display_name": "Peach — healthy",
+      "plant_name": "Peach",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and good orchard management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Peach — healthy",
+      "plant_name": "Peach",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and good orchard management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Peach — healthy",
+      "plant_name": "Peach",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Regular pruning and good orchard management.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "en": {
+      "display_name": "Pepper, bell — Bacterial spot",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "Water-soaked lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas campestris.",
+      "prevention": "Rotate crops, avoid overhead watering.",
+      "treatment": "Apply copper-based sprays or bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Pepper, bell — Bacterial spot",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "Water-soaked lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas campestris.",
+      "prevention": "Rotate crops, avoid overhead watering.",
+      "treatment": "Apply copper-based sprays or bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Pepper, bell — Bacterial spot",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "Water-soaked lesions on leaves and fruit.",
+      "causes": "Bacterial infection caused by Xanthomonas campestris.",
+      "prevention": "Rotate crops, avoid overhead watering.",
+      "treatment": "Apply copper-based sprays or bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "en": {
+      "display_name": "Pepper, bell — healthy",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Pepper, bell — healthy",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Pepper, bell — healthy",
+      "plant_name": "Pepper (bell)",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Potato___Early_blight": {
+    "en": {
+      "display_name": "Potato — Early blight",
+      "plant_name": "Potato",
+      "symptoms": "Dark spots with concentric rings, usually starting on older leaves.",
+      "causes": "Fungus Alternaria solani; stress, warm weather, and leaf wetness increase risk.",
+      "prevention": "Rotate crops, remove infected leaves, avoid overhead watering, and keep plants well nourished.",
+      "treatment": "Start fungicide sprays when symptoms appear and repeat as per label.",
+      "pesticide": "Recommended: chlorothalonil or mancozeb (as per local label)."
+    },
+    "hi": {
+      "display_name": "आलू — अर्ली ब्लाइट",
+      "plant_name": "आलू",
+      "symptoms": "पुराने पत्तों पर गोल-गोल छल्ले वाले गहरे धब्बे।",
+      "causes": "अल्टरनेरिया सोलानी (Alternaria solani); गर्मी, तनाव और पत्तियों की नमी से जोखिम बढ़ता है।",
+      "prevention": "फसल चक्र अपनाएँ, संक्रमित पत्तियाँ हटाएँ, ऊपर से सिंचाई से बचें, पोषण सही रखें।",
+      "treatment": "लक्षण दिखते ही फफूंदनाशी स्प्रे शुरू करें और लेबल के अनुसार दोहराएँ।",
+      "pesticide": "सुझाव: क्लोरोथालोनिल या मैनकोजेब (स्थानीय लेबल के अनुसार)।"
+    },
+    "mr": {
+      "display_name": "बटाटा — अर्ली ब्लाइट",
+      "plant_name": "बटाटा",
+      "symptoms": "जुन्या पानांवर वर्तुळाकार वलयांसह काळसर डाग.",
+      "causes": "Alternaria solani; उष्ण हवामान, ताण आणि पानांवरील ओलावा धोका वाढवतो.",
+      "prevention": "पीक फेरपालट करा, संक्रमित पाने काढा, वरून पाणी देणे टाळा, पोषण संतुलित ठेवा.",
+      "treatment": "लक्षणे दिसताच फंगीसाइड फवारणी सुरू करा आणि लेबलनुसार पुनरावृत्ती करा.",
+      "pesticide": "सुझाव: क्लोरोथॅलोनिल किंवा मॅन्कोझेब (स्थानिक लेबलनुसार)."
+    }
+  },
+  "Potato___Late_blight": {
+    "en": {
+      "display_name": "Potato — Late blight",
+      "plant_name": "Potato",
+      "symptoms": "Water-soaked lesions on leaves and stems; white mildew may appear in humid weather.",
+      "causes": "Fungal-like pathogen Phytophthora infestans spreads fast in cool, wet conditions.",
+      "prevention": "Use resistant varieties, avoid wet foliage, ensure good spacing/airflow, remove infected debris, and avoid overhead irrigation.",
+      "treatment": "Remove badly infected plants/leaves and start protective sprays early.",
+      "pesticide": "Recommended: metalaxyl + mancozeb (or other late blight fungicide as per local label)."
+    },
+    "hi": {
+      "display_name": "आलू — लेट ब्लाइट",
+      "plant_name": "आलू",
+      "symptoms": "पत्तियों और तनों पर पानी जैसे धब्बे; नमी में सफ़ेद फफूंदी दिख सकती है।",
+      "causes": "फाइटोफ्थोरा इंफेस्टेन्स (Phytophthora infestans) ठंडे और गीले मौसम में तेजी से फैलता है।",
+      "prevention": "प्रतिरोधी किस्में लगाएँ, पत्तियाँ गीली न रखें, सही दूरी/हवा का प्रवाह रखें, संक्रमित अवशेष हटाएँ, ऊपर से सिंचाई से बचें।",
+      "treatment": "बहुत संक्रमित पत्तियाँ/पौधे हटाएँ और शुरुआती अवस्था से सुरक्षा स्प्रे करें।",
+      "pesticide": "सुझाव: मेटालैक्सिल + मैनकोजेब (या स्थानीय लेबल के अनुसार लेट ब्लाइट फफूंदनाशी)।"
+    },
+    "mr": {
+      "display_name": "बटाटा — लेट ब्लाइट",
+      "plant_name": "बटाटा",
+      "symptoms": "पानांवर व खोडावर पाण्यासारखे डाग; दमट हवेत पांढरी बुरशी दिसू शकते.",
+      "causes": "Phytophthora infestans हा रोग थंड व ओलसर हवेत वेगाने पसरतो.",
+      "prevention": "प्रतिरोधक वाण वापरा, पाने ओलसर राहू देऊ नका, योग्य अंतर/हवा खेळती ठेवा, संक्रमित अवशेष काढा, वरून पाणी देणे टाळा.",
+      "treatment": "खूप संक्रमित पाने/झाडे काढा आणि लवकर प्रतिबंधक फवारणी सुरू करा.",
+      "pesticide": "सुझाव: मेटालॅक्सिल + मॅन्कोझेब (किंवा स्थानिक लेबलनुसार लेट ब्लाइट फंगीसाइड)."
+    }
+  },
+  "Potato___healthy": {
+    "en": {
+      "display_name": "Potato — Healthy",
+      "plant_name": "Potato",
+      "symptoms": "No visible disease symptoms.",
+      "causes": "N/A",
+      "prevention": "Maintain proper nutrition, irrigation, and field hygiene.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Not required."
+    },
+    "hi": {
+      "display_name": "आलू — स्वस्थ",
+      "plant_name": "आलू",
+      "symptoms": "रोग के कोई स्पष्ट लक्षण नहीं।",
+      "causes": "लागू नहीं",
+      "prevention": "संतुलित पोषण, सही सिंचाई और खेत की सफ़ाई बनाए रखें।",
+      "treatment": "इलाज की जरूरत नहीं।",
+      "pesticide": "आवश्यक नहीं।"
+    },
+    "mr": {
+      "display_name": "बटाटा — निरोगी",
+      "plant_name": "बटाटा",
+      "symptoms": "रोगाची ठळक लक्षणे नाहीत.",
+      "causes": "लागू नाही",
+      "prevention": "संतुलित पोषण, योग्य सिंचन आणि शेत स्वच्छता राखा.",
+      "treatment": "उपचार आवश्यक नाही.",
+      "pesticide": "आवश्यक नाही."
+    }
+  },
+  "Raspberry___healthy": {
+    "en": {
+      "display_name": "Raspberry — healthy",
+      "plant_name": "Raspberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure proper drainage and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Raspberry — healthy",
+      "plant_name": "Raspberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure proper drainage and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Raspberry — healthy",
+      "plant_name": "Raspberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Ensure proper drainage and balanced soil nutrition.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Soybean___healthy": {
+    "en": {
+      "display_name": "Soybean — healthy",
+      "plant_name": "Soybean",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Rotate crops and maintain soil fertility.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Soybean — healthy",
+      "plant_name": "Soybean",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Rotate crops and maintain soil fertility.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Soybean — healthy",
+      "plant_name": "Soybean",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Rotate crops and maintain soil fertility.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "en": {
+      "display_name": "Squash — Powdery mildew",
+      "plant_name": "Squash",
+      "symptoms": "White powdery patches on leaves and stems.",
+      "causes": "Fungal infection caused by Erysiphe cichoracearum.",
+      "prevention": "Ensure good air circulation and avoid overhead watering.",
+      "treatment": "Apply fungicides like sulfur or potassium bicarbonate.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Squash — Powdery mildew",
+      "plant_name": "Squash",
+      "symptoms": "White powdery patches on leaves and stems.",
+      "causes": "Fungal infection caused by Erysiphe cichoracearum.",
+      "prevention": "Ensure good air circulation and avoid overhead watering.",
+      "treatment": "Apply fungicides like sulfur or potassium bicarbonate.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Squash — Powdery mildew",
+      "plant_name": "Squash",
+      "symptoms": "White powdery patches on leaves and stems.",
+      "causes": "Fungal infection caused by Erysiphe cichoracearum.",
+      "prevention": "Ensure good air circulation and avoid overhead watering.",
+      "treatment": "Apply fungicides like sulfur or potassium bicarbonate.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "en": {
+      "display_name": "Strawberry — Leaf scorch",
+      "plant_name": "Strawberry",
+      "symptoms": "Red or purple spots on leaves, leading to leaf scorch.",
+      "causes": "Fungal infection caused by Diplocarpon earlianum.",
+      "prevention": "Avoid overhead irrigation, remove infected leaves.",
+      "treatment": "Use fungicides like myclobutanil or captan.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Strawberry — Leaf scorch",
+      "plant_name": "Strawberry",
+      "symptoms": "Red or purple spots on leaves, leading to leaf scorch.",
+      "causes": "Fungal infection caused by Diplocarpon earlianum.",
+      "prevention": "Avoid overhead irrigation, remove infected leaves.",
+      "treatment": "Use fungicides like myclobutanil or captan.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Strawberry — Leaf scorch",
+      "plant_name": "Strawberry",
+      "symptoms": "Red or purple spots on leaves, leading to leaf scorch.",
+      "causes": "Fungal infection caused by Diplocarpon earlianum.",
+      "prevention": "Avoid overhead irrigation, remove infected leaves.",
+      "treatment": "Use fungicides like myclobutanil or captan.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Strawberry___healthy": {
+    "en": {
+      "display_name": "Strawberry — healthy",
+      "plant_name": "Strawberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced fertilization.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Strawberry — healthy",
+      "plant_name": "Strawberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced fertilization.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Strawberry — healthy",
+      "plant_name": "Strawberry",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Proper irrigation and balanced fertilization.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "en": {
+      "display_name": "Tomato — Bacterial spot",
+      "plant_name": "Tomato",
+      "symptoms": "Dark water-soaked spots on leaves and fruits.",
+      "causes": "Bacterial infection caused by Xanthomonas vesicatoria.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Bacterial spot",
+      "plant_name": "Tomato",
+      "symptoms": "Dark water-soaked spots on leaves and fruits.",
+      "causes": "Bacterial infection caused by Xanthomonas vesicatoria.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Bacterial spot",
+      "plant_name": "Tomato",
+      "symptoms": "Dark water-soaked spots on leaves and fruits.",
+      "causes": "Bacterial infection caused by Xanthomonas vesicatoria.",
+      "prevention": "Use resistant varieties, avoid overhead watering.",
+      "treatment": "Apply copper-based bactericides.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Early_blight": {
+    "en": {
+      "display_name": "Tomato — Early blight",
+      "plant_name": "Tomato",
+      "symptoms": "Concentric rings on leaves, fruits, and stems.",
+      "causes": "Fungal infection caused by Alternaria solani.",
+      "prevention": "Rotate crops, remove infected leaves.",
+      "treatment": "Use fungicides like chlorothalonil or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Early blight",
+      "plant_name": "Tomato",
+      "symptoms": "Concentric rings on leaves, fruits, and stems.",
+      "causes": "Fungal infection caused by Alternaria solani.",
+      "prevention": "Rotate crops, remove infected leaves.",
+      "treatment": "Use fungicides like chlorothalonil or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Early blight",
+      "plant_name": "Tomato",
+      "symptoms": "Concentric rings on leaves, fruits, and stems.",
+      "causes": "Fungal infection caused by Alternaria solani.",
+      "prevention": "Rotate crops, remove infected leaves.",
+      "treatment": "Use fungicides like chlorothalonil or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Late_blight": {
+    "en": {
+      "display_name": "Tomato — Late blight",
+      "plant_name": "Tomato",
+      "symptoms": "Water-soaked lesions on leaves, stems, and fruits.",
+      "causes": "Fungal infection caused by Phytophthora infestans.",
+      "prevention": "Use resistant varieties, avoid wet foliage.",
+      "treatment": "Apply fungicides like metalaxyl.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Late blight",
+      "plant_name": "Tomato",
+      "symptoms": "Water-soaked lesions on leaves, stems, and fruits.",
+      "causes": "Fungal infection caused by Phytophthora infestans.",
+      "prevention": "Use resistant varieties, avoid wet foliage.",
+      "treatment": "Apply fungicides like metalaxyl.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Late blight",
+      "plant_name": "Tomato",
+      "symptoms": "Water-soaked lesions on leaves, stems, and fruits.",
+      "causes": "Fungal infection caused by Phytophthora infestans.",
+      "prevention": "Use resistant varieties, avoid wet foliage.",
+      "treatment": "Apply fungicides like metalaxyl.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "en": {
+      "display_name": "Tomato — Leaf Mold",
+      "plant_name": "Tomato",
+      "symptoms": "Yellow spots on upper leaf surfaces with mold underneath.",
+      "causes": "Fungal infection caused by Passalora fulva.",
+      "prevention": "Increase air circulation and avoid leaf wetness.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Leaf Mold",
+      "plant_name": "Tomato",
+      "symptoms": "Yellow spots on upper leaf surfaces with mold underneath.",
+      "causes": "Fungal infection caused by Passalora fulva.",
+      "prevention": "Increase air circulation and avoid leaf wetness.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Leaf Mold",
+      "plant_name": "Tomato",
+      "symptoms": "Yellow spots on upper leaf surfaces with mold underneath.",
+      "causes": "Fungal infection caused by Passalora fulva.",
+      "prevention": "Increase air circulation and avoid leaf wetness.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "en": {
+      "display_name": "Tomato — Septoria leaf spot",
+      "plant_name": "Tomato",
+      "symptoms": "Small, circular spots with gray centers and dark edges.",
+      "causes": "Fungal infection caused by Septoria lycopersici.",
+      "prevention": "Prune infected leaves, avoid overhead watering.",
+      "treatment": "Apply fungicides like mancozeb or chlorothalonil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Septoria leaf spot",
+      "plant_name": "Tomato",
+      "symptoms": "Small, circular spots with gray centers and dark edges.",
+      "causes": "Fungal infection caused by Septoria lycopersici.",
+      "prevention": "Prune infected leaves, avoid overhead watering.",
+      "treatment": "Apply fungicides like mancozeb or chlorothalonil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Septoria leaf spot",
+      "plant_name": "Tomato",
+      "symptoms": "Small, circular spots with gray centers and dark edges.",
+      "causes": "Fungal infection caused by Septoria lycopersici.",
+      "prevention": "Prune infected leaves, avoid overhead watering.",
+      "treatment": "Apply fungicides like mancozeb or chlorothalonil.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "en": {
+      "display_name": "Tomato — Spider mites Two-spotted spider mite",
+      "plant_name": "Tomato",
+      "symptoms": "Tiny, yellowing spots and webbing on leaves.",
+      "causes": "Infection by two-spotted spider mites.",
+      "prevention": "Maintain proper irrigation and humidity levels.",
+      "treatment": "Use miticides or insecticidal soap.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Spider mites Two-spotted spider mite",
+      "plant_name": "Tomato",
+      "symptoms": "Tiny, yellowing spots and webbing on leaves.",
+      "causes": "Infection by two-spotted spider mites.",
+      "prevention": "Maintain proper irrigation and humidity levels.",
+      "treatment": "Use miticides or insecticidal soap.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Spider mites Two-spotted spider mite",
+      "plant_name": "Tomato",
+      "symptoms": "Tiny, yellowing spots and webbing on leaves.",
+      "causes": "Infection by two-spotted spider mites.",
+      "prevention": "Maintain proper irrigation and humidity levels.",
+      "treatment": "Use miticides or insecticidal soap.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Target_Spot": {
+    "en": {
+      "display_name": "Tomato — Target Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Brown, concentric lesions on leaves and fruit.",
+      "causes": "Fungal infection caused by Corynespora cassiicola.",
+      "prevention": "Use resistant varieties, avoid overcrowding plants.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Target Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Brown, concentric lesions on leaves and fruit.",
+      "causes": "Fungal infection caused by Corynespora cassiicola.",
+      "prevention": "Use resistant varieties, avoid overcrowding plants.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Target Spot",
+      "plant_name": "Tomato",
+      "symptoms": "Brown, concentric lesions on leaves and fruit.",
+      "causes": "Fungal infection caused by Corynespora cassiicola.",
+      "prevention": "Use resistant varieties, avoid overcrowding plants.",
+      "treatment": "Apply fungicides like mancozeb or copper.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "en": {
+      "display_name": "Tomato — Yellow Leaf Curl Virus",
+      "plant_name": "Tomato",
+      "symptoms": "Yellowing and upward curling of leaves; stunted growth and reduced fruit set.",
+      "causes": "Virus spread mainly by whiteflies.",
+      "prevention": "Control whiteflies, use insect-proof nets, remove infected plants early, and use resistant varieties if available.",
+      "treatment": "No direct cure; focus on vector control and removing infected plants.",
+      "pesticide": "Recommended: whitefly management (e.g., neem-based products or approved insecticides as per local label)."
+    },
+    "hi": {
+      "display_name": "टमाटर — येलो लीफ कर्ल वायरस",
+      "plant_name": "टमाटर",
+      "symptoms": "पत्तियाँ पीली होकर ऊपर की ओर मुड़ती हैं; पौधा बौना रह सकता है और फल कम लगते हैं।",
+      "causes": "यह वायरस मुख्यतः सफ़ेद मक्खी से फैलता है।",
+      "prevention": "सफ़ेद मक्खी का नियंत्रण करें, नेट/मल्च का उपयोग करें, संक्रमित पौधे जल्दी हटाएँ, उपलब्ध हो तो प्रतिरोधी किस्में लगाएँ।",
+      "treatment": "सीधा इलाज नहीं; कीट नियंत्रण और संक्रमित पौधों को हटाना जरूरी है।",
+      "pesticide": "सुझाव: सफ़ेद मक्खी नियंत्रण (नीम आधारित उत्पाद या स्थानीय लेबल के अनुसार कीटनाशी)।"
+    },
+    "mr": {
+      "display_name": "टोमॅटो — यलो लीफ कर्ल व्हायरस",
+      "plant_name": "टोमॅटो",
+      "symptoms": "पाने पिवळी होऊन वरच्या बाजूला वाकतात; वाढ खुंटते आणि फळधारणा कमी होते.",
+      "causes": "हा व्हायरस प्रामुख्याने पांढऱ्या माशीमुळे पसरतो.",
+      "prevention": "पांढरी माशी नियंत्रणात ठेवा, जाळी/मल्च वापरा, संक्रमित झाडे लवकर काढा, शक्य असल्यास प्रतिरोधक वाण वापरा.",
+      "treatment": "थेट उपचार नाही; कीड नियंत्रण आणि संक्रमित झाडे काढणे महत्त्वाचे.",
+      "pesticide": "सुझाव: पांढरी माशी नियंत्रण (नीम आधारित उत्पादने किंवा स्थानिक लेबलनुसार कीटकनाशक)."
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "en": {
+      "display_name": "Tomato — Tomato mosaic virus",
+      "plant_name": "Tomato",
+      "symptoms": "Mottled, yellow-green leaves with blistered texture.",
+      "causes": "Viral infection spread through contaminated tools.",
+      "prevention": "Disinfect tools, avoid handling plants when wet.",
+      "treatment": "No cure, remove infected plants.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — Tomato mosaic virus",
+      "plant_name": "Tomato",
+      "symptoms": "Mottled, yellow-green leaves with blistered texture.",
+      "causes": "Viral infection spread through contaminated tools.",
+      "prevention": "Disinfect tools, avoid handling plants when wet.",
+      "treatment": "No cure, remove infected plants.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — Tomato mosaic virus",
+      "plant_name": "Tomato",
+      "symptoms": "Mottled, yellow-green leaves with blistered texture.",
+      "causes": "Viral infection spread through contaminated tools.",
+      "prevention": "Disinfect tools, avoid handling plants when wet.",
+      "treatment": "No cure, remove infected plants.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  },
+  "Tomato___healthy": {
+    "en": {
+      "display_name": "Tomato — healthy",
+      "plant_name": "Tomato",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "hi": {
+      "display_name": "Tomato — healthy",
+      "plant_name": "Tomato",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    },
+    "mr": {
+      "display_name": "Tomato — healthy",
+      "plant_name": "Tomato",
+      "symptoms": "None, plant is healthy.",
+      "causes": "N/A",
+      "prevention": "Provide balanced nutrients and irrigation.",
+      "treatment": "No treatment needed.",
+      "pesticide": "Consult a local expert for specific pesticide recommendations."
+    }
+  }
+}
